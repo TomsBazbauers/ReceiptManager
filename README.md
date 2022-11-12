@@ -1,6 +1,8 @@
 ## ReceiptManager
 
 CRUD API application for managing receipts.
+- This project uses SqlServer local database
+- Unit tested via XUnit
 
 ---
 
@@ -13,11 +15,6 @@ Functions:
 - Get all receipts
 - Get a receipt by id
 - Get the list of receipts by contents or creation period
-
-
-- This project uses SqlServer local database
-- Unit tested via XUnit
-
 ---
 How to run:
 
