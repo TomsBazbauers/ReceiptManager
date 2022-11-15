@@ -15,8 +15,10 @@ Functions:
 - Get all receipts
 - Get a receipt by id
 - Get the list of receipts by contents or creation period
+
+An IDE software with C#/.NET support is necessary to run this project. 
 ---
-How to run:
+How to run in Visual Studio:
 
 1. Open the .sln file:
 ```
@@ -28,11 +30,15 @@ ReceiptManager.sln, here: ReceiptManager/ReceiptManager.sln
 You should see a Swagger page open with all of the endpoints 
 note: keep the project running to send requests
 ```
-
 3. Toggle any endpoint you wish
 
 ```
 You should receive correct responses for your requests
+```
+4. Run tests in Visual Studio:
+
+```
+Test/Run All Tests
 ```
 
 ---
