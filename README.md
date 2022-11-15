@@ -2,7 +2,7 @@
 
 CRUD API application for managing receipts.
 - This project uses SqlServer local database
-- Unit tested via XUnit, Moq and FluentAssertions
+- Unit tested via XUnit, Moq
 
 ---
 
