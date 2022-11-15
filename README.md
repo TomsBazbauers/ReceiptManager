@@ -16,7 +16,8 @@ Functions:
 - Get a receipt by id
 - Get the list of receipts by contents or creation period
 
-An IDE software with C#/.NET support is necessary to run this project. 
+ An IDE software with C#/.NET support is necessary to run this project. 
+
 ---
 How to run in Visual Studio:
 
