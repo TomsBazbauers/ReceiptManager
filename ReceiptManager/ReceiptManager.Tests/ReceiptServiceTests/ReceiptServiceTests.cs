@@ -58,7 +58,7 @@ namespace ReceiptManager.Tests
 
             // Assert
             _dbContext.Receipts.Count().Should().Be(receiptCountInDb - 1);
-            _dbContext.Receipts.Any(receipt => receipt.Id != testId).Should().BeTrue();
+            _dbContext.Receipts.Any(receipt => receipt.Id != testId).Should().BeFalse();
         }
 
         [Fact]
