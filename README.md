@@ -2,7 +2,7 @@
 
 CRUD API application for managing receipts.
 - This project uses SqlServer local database
-- Unit tested via xUnit, Moq, FluentAssertions and InMemory DB
+- Unit tested via *xUnit, Moq, FluentAssertions and InMemory Database*
 
 ---
 
@@ -16,7 +16,7 @@ Functions:
 - Get a receipt by id
 - Get the list of receipts by contents or creation period
 
- An IDE software with C#/.NET support is necessary to run this project. 
+ **An IDE software with C#/.NET support is necessary to run this project.** 
 
 ---
 How to run in Visual Studio:
